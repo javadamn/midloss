@@ -1,0 +1,11 @@
+metric,model_a,model_b,n_subjects,mean_improvement_b_minus_a,median_improvement_b_minus_a,p_exact_two_sided,p_holm
+mean_TV,M3_arithmetic_regions_plus_reference,B0_population_arithmetic_center,11,-0.0026897198146826114,0.0034595096515842028,0.642578125,0.751953125
+mean_TV,M6_aitchison_regions_plus_reference,B0_population_arithmetic_center,11,-0.09943233275173581,-0.05044852740256439,0.0087890625,0.0263671875
+mean_TV,M7_multiregion_clr_ridge,B0_population_arithmetic_center,11,-0.026938831433718346,-0.02652919247545238,0.3759765625,0.751953125
+mean_TV,M3_arithmetic_regions_plus_reference,M1_equal_arithmetic_regions,11,0.21898801619264455,0.22667567252670517,0.001953125,0.0078125
+mean_TV,M6_aitchison_regions_plus_reference,M4_equal_aitchison_regions,11,0.16126541447652934,0.13889018558387156,0.0009765625,0.0048828125
+mean_Aitchison,M3_arithmetic_regions_plus_reference,B0_population_aitchison_center,11,-1.6814590992779876,-1.102152815081464,0.0009765625,0.0048828125
+mean_Aitchison,M6_aitchison_regions_plus_reference,B0_population_aitchison_center,11,0.965381381671492,1.3601567837681534,0.0947265625,0.2431640625
+mean_Aitchison,M7_multiregion_clr_ridge,B0_population_aitchison_center,11,1.0259610803415635,1.2016383840534512,0.0810546875,0.2431640625
+mean_Aitchison,M3_arithmetic_regions_plus_reference,M1_equal_arithmetic_regions,11,-2.1425182985382105,-2.5476862863305465,0.0263671875,0.10546875
+mean_Aitchison,M6_aitchison_regions_plus_reference,M4_equal_aitchison_regions,11,0.6782452308473828,0.5707188246395773,0.1953125,0.2431640625

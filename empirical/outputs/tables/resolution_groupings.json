@@ -1,0 +1,83 @@
+{
+  "K11": {
+    "G01_sulfidogenic_bile_proteolytic": [
+      "G01_sulfidogenic_bile_proteolytic"
+    ],
+    "G02_oxygen_tolerant_proximal_oral": [
+      "G02_oxygen_tolerant_proximal_oral"
+    ],
+    "G03_bacteroidales_generalist": [
+      "G03_bacteroidales_generalist"
+    ],
+    "G04_prevotella_carbohydrate_propionate": [
+      "G04_prevotella_carbohydrate_propionate"
+    ],
+    "G05_lactate_utilizers_propionate": [
+      "G05_lactate_utilizers_propionate"
+    ],
+    "G06_bifidobacteria_lactate_acetate": [
+      "G06_bifidobacteria_lactate_acetate"
+    ],
+    "G07_ruminococcaceae_fiber_butyrate": [
+      "G07_ruminococcaceae_fiber_butyrate"
+    ],
+    "G08_mucin_glycan_barrier": [
+      "G08_mucin_glycan_barrier"
+    ],
+    "G09_lachnospiraceae_butyrate_crossfeeders": [
+      "G09_lachnospiraceae_butyrate_crossfeeders"
+    ],
+    "G10_other_anaerobic_fermenters_uncertain": [
+      "G10_other_anaerobic_fermenters_uncertain"
+    ],
+    "G11_unassigned_low_information": [
+      "G11_unassigned_low_information"
+    ]
+  },
+  "K6": {
+    "K6_G1_sulfidogenic_proximal": [
+      "G01_sulfidogenic_bile_proteolytic",
+      "G02_oxygen_tolerant_proximal_oral"
+    ],
+    "K6_G2_bacteroidales_prevotella": [
+      "G03_bacteroidales_generalist",
+      "G04_prevotella_carbohydrate_propionate"
+    ],
+    "K6_G3_lactate_acetate_propionate": [
+      "G05_lactate_utilizers_propionate",
+      "G06_bifidobacteria_lactate_acetate"
+    ],
+    "K6_G4_fiber_butyrate_crossfeeders": [
+      "G07_ruminococcaceae_fiber_butyrate",
+      "G09_lachnospiraceae_butyrate_crossfeeders"
+    ],
+    "K6_G5_mucin_barrier": [
+      "G08_mucin_glycan_barrier"
+    ],
+    "K6_G6_other_uncertain": [
+      "G10_other_anaerobic_fermenters_uncertain",
+      "G11_unassigned_low_information"
+    ]
+  },
+  "K4": {
+    "K4_G1_sulfidogenic_proximal": [
+      "G01_sulfidogenic_bile_proteolytic",
+      "G02_oxygen_tolerant_proximal_oral"
+    ],
+    "K4_G2_generalist_propionate": [
+      "G03_bacteroidales_generalist",
+      "G04_prevotella_carbohydrate_propionate",
+      "G05_lactate_utilizers_propionate",
+      "G06_bifidobacteria_lactate_acetate"
+    ],
+    "K4_G3_butyrate_mucin_barrier": [
+      "G07_ruminococcaceae_fiber_butyrate",
+      "G08_mucin_glycan_barrier",
+      "G09_lachnospiraceae_butyrate_crossfeeders"
+    ],
+    "K4_G4_other_uncertain": [
+      "G10_other_anaerobic_fermenters_uncertain",
+      "G11_unassigned_low_information"
+    ]
+  }
+}

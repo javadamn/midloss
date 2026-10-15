@@ -1,0 +1,12 @@
+curated_guild,benefit_score,interpretation,examples,claim_level
+G01_sulfidogenic_bile_proteolytic,0.12,"Sulfidogenic, bile-associated, proteolytic, or pathobiont-enriched taxa.","Desulfovibrionaceae, Bilophila, Desulfovibrio, Fusobacterium, Campylobacter",Taxonomic-functional proxy; not enzyme-level annotation.
+G02_oxygen_tolerant_proximal_oral,0.22,"Facultative, oxygen-tolerant, oral/proximal taxa often underrepresented in distal stool.","Enterobacteriaceae, Streptococcaceae, Enterococcaceae, Lactobacillaceae","Proximal/oral signal proxy, not necessarily harmful."
+G03_bacteroidales_generalist,0.45,Bacteroidales generalists with broad polysaccharide/protein versatility.,"Bacteroides, Parabacteroides, Alistipes, Odoribacter",Broad taxonomic-functional proxy.
+G04_prevotella_carbohydrate_propionate,0.55,Prevotella/Prevotellaceae carbohydrate-associated propionate proxy.,"Prevotella, Alloprevotella, Paraprevotella",Diet-associated taxonomic proxy.
+G05_lactate_utilizers_propionate,0.5,Lactate/succinate-utilizing and propionate-associated anaerobes.,"Veillonella, Dialister, Megasphaera, Phascolarctobacterium",Taxonomic-functional proxy.
+G06_bifidobacteria_lactate_acetate,0.68,Bifidobacteria acetate/lactate producers and cross-feeding partners.,Bifidobacterium,Genus-level proxy.
+G07_ruminococcaceae_fiber_butyrate,0.7,Ruminococcaceae/Faecalibacterium-like fiber and butyrate-associated taxa.,"Faecalibacterium, Subdoligranulum, Ruminococcaceae UCG groups",Family/genus-level proxy.
+G08_mucin_glycan_barrier,0.72,Mucin-glycan and mucus/barrier-associated taxa.,"Akkermansia, Ruminococcus gnavus/torques group",Context-dependent taxonomic proxy.
+G09_lachnospiraceae_butyrate_crossfeeders,0.65,Lachnospiraceae-type butyrate/cross-feeding anaerobes.,"Roseburia, Eubacterium rectale group, Anaerostipes, Coprococcus",Family/genus-level proxy.
+G10_other_anaerobic_fermenters_uncertain,0.42,Other anaerobic fermenters not specific enough for higher-confidence assignment.,"Erysipelotrichaceae, Christensenellaceae, unresolved Clostridia, methanogens",Uncertain/heterogeneous.
+G11_unassigned_low_information,0.35,Unclassified or low-information taxa retained for compositional closure.,Unresolved ASVs,Not mechanistically interpreted.

@@ -1,0 +1,210 @@
+analysis,held_subject,model,parameter,value
+primary,2.0,M2_learned_arithmetic_regions,weight_Capsule 1,0.22937693901868808
+primary,2.0,M2_learned_arithmetic_regions,weight_Capsule 2,0.2468332821291486
+primary,2.0,M2_learned_arithmetic_regions,weight_Capsule 3,6.928729508540177e-19
+primary,2.0,M2_learned_arithmetic_regions,weight_Capsule 4,0.5237897788521633
+primary,2.0,M3_arithmetic_regions_plus_reference,weight_Capsule 1,0.009878372031076233
+primary,2.0,M3_arithmetic_regions_plus_reference,weight_Capsule 2,2.1243586317137853e-18
+primary,2.0,M3_arithmetic_regions_plus_reference,weight_Capsule 3,1.2531428938153746e-17
+primary,2.0,M3_arithmetic_regions_plus_reference,weight_Capsule 4,0.04438881898744381
+primary,2.0,M3_arithmetic_regions_plus_reference,weight_population_stool_reference,0.9457328089814799
+primary,2.0,M5_learned_aitchison_regions,weight_Capsule 1,0.05394130403001107
+primary,2.0,M5_learned_aitchison_regions,weight_Capsule 2,0.17135624349526826
+primary,2.0,M5_learned_aitchison_regions,weight_Capsule 3,0.18238286846525817
+primary,2.0,M5_learned_aitchison_regions,weight_Capsule 4,0.5923195840094626
+primary,2.0,M6_aitchison_regions_plus_reference,weight_Capsule 1,0.0
+primary,2.0,M6_aitchison_regions_plus_reference,weight_Capsule 2,0.01820680879231212
+primary,2.0,M6_aitchison_regions_plus_reference,weight_Capsule 3,0.030932631461729723
+primary,2.0,M6_aitchison_regions_plus_reference,weight_Capsule 4,0.4336768441892967
+primary,2.0,M6_aitchison_regions_plus_reference,weight_population_stool_reference,0.5171837155566614
+primary,2.0,M7_multiregion_clr_ridge,ridge_alpha,100.0
+primary,3.0,M2_learned_arithmetic_regions,weight_Capsule 1,0.25054061490663637
+primary,3.0,M2_learned_arithmetic_regions,weight_Capsule 2,0.09770248806504642
+primary,3.0,M2_learned_arithmetic_regions,weight_Capsule 3,8.390708375501098e-18
+primary,3.0,M2_learned_arithmetic_regions,weight_Capsule 4,0.6517568970283172
+primary,3.0,M3_arithmetic_regions_plus_reference,weight_Capsule 1,0.05860818692946439
+primary,3.0,M3_arithmetic_regions_plus_reference,weight_Capsule 2,0.0
+primary,3.0,M3_arithmetic_regions_plus_reference,weight_Capsule 3,6.426862487292004e-18
+primary,3.0,M3_arithmetic_regions_plus_reference,weight_Capsule 4,0.01675381822387329
+primary,3.0,M3_arithmetic_regions_plus_reference,weight_population_stool_reference,0.9246379948466624
+primary,3.0,M5_learned_aitchison_regions,weight_Capsule 1,0.24149729581940427
+primary,3.0,M5_learned_aitchison_regions,weight_Capsule 2,0.2994097580662953
+primary,3.0,M5_learned_aitchison_regions,weight_Capsule 3,1.1479731655019126e-17
+primary,3.0,M5_learned_aitchison_regions,weight_Capsule 4,0.4590929461143005
+primary,3.0,M6_aitchison_regions_plus_reference,weight_Capsule 1,0.031401010941753335
+primary,3.0,M6_aitchison_regions_plus_reference,weight_Capsule 2,0.205129289174333
+primary,3.0,M6_aitchison_regions_plus_reference,weight_Capsule 3,0.0
+primary,3.0,M6_aitchison_regions_plus_reference,weight_Capsule 4,0.31544775977419837
+primary,3.0,M6_aitchison_regions_plus_reference,weight_population_stool_reference,0.44802194010971524
+primary,3.0,M7_multiregion_clr_ridge,ridge_alpha,100.0
+primary,4.0,M2_learned_arithmetic_regions,weight_Capsule 1,0.3209617604416502
+primary,4.0,M2_learned_arithmetic_regions,weight_Capsule 2,0.24248188833432271
+primary,4.0,M2_learned_arithmetic_regions,weight_Capsule 3,3.178914651045389e-18
+primary,4.0,M2_learned_arithmetic_regions,weight_Capsule 4,0.43655635122402714
+primary,4.0,M3_arithmetic_regions_plus_reference,weight_Capsule 1,0.0923489615484534
+primary,4.0,M3_arithmetic_regions_plus_reference,weight_Capsule 2,1.6132589513405407e-17
+primary,4.0,M3_arithmetic_regions_plus_reference,weight_Capsule 3,8.029872339970768e-19
+primary,4.0,M3_arithmetic_regions_plus_reference,weight_Capsule 4,0.0016223352629243207
+primary,4.0,M3_arithmetic_regions_plus_reference,weight_population_stool_reference,0.9060287031886223
+primary,4.0,M5_learned_aitchison_regions,weight_Capsule 1,0.22568442370381755
+primary,4.0,M5_learned_aitchison_regions,weight_Capsule 2,0.2584054642191072
+primary,4.0,M5_learned_aitchison_regions,weight_Capsule 3,0.06573425865988965
+primary,4.0,M5_learned_aitchison_regions,weight_Capsule 4,0.45017585341718563
+primary,4.0,M6_aitchison_regions_plus_reference,weight_Capsule 1,0.029093209992625085
+primary,4.0,M6_aitchison_regions_plus_reference,weight_Capsule 2,0.10679036632008708
+primary,4.0,M6_aitchison_regions_plus_reference,weight_Capsule 3,0.0
+primary,4.0,M6_aitchison_regions_plus_reference,weight_Capsule 4,0.30242483693774547
+primary,4.0,M6_aitchison_regions_plus_reference,weight_population_stool_reference,0.5616915867495424
+primary,4.0,M7_multiregion_clr_ridge,ridge_alpha,100.0
+primary,6.0,M2_learned_arithmetic_regions,weight_Capsule 1,0.2841381310767741
+primary,6.0,M2_learned_arithmetic_regions,weight_Capsule 2,0.33895064179709483
+primary,6.0,M2_learned_arithmetic_regions,weight_Capsule 3,0.0
+primary,6.0,M2_learned_arithmetic_regions,weight_Capsule 4,0.3769112271261312
+primary,6.0,M3_arithmetic_regions_plus_reference,weight_Capsule 1,0.089197664885392
+primary,6.0,M3_arithmetic_regions_plus_reference,weight_Capsule 2,0.0
+primary,6.0,M3_arithmetic_regions_plus_reference,weight_Capsule 3,1.3660947373317356e-17
+primary,6.0,M3_arithmetic_regions_plus_reference,weight_Capsule 4,0.0
+primary,6.0,M3_arithmetic_regions_plus_reference,weight_population_stool_reference,0.9108023351146081
+primary,6.0,M5_learned_aitchison_regions,weight_Capsule 1,0.21642764628374345
+primary,6.0,M5_learned_aitchison_regions,weight_Capsule 2,0.28707506140080497
+primary,6.0,M5_learned_aitchison_regions,weight_Capsule 3,0.0995658663703906
+primary,6.0,M5_learned_aitchison_regions,weight_Capsule 4,0.396931425945061
+primary,6.0,M6_aitchison_regions_plus_reference,weight_Capsule 1,0.024727055524593082
+primary,6.0,M6_aitchison_regions_plus_reference,weight_Capsule 2,0.14905831298952268
+primary,6.0,M6_aitchison_regions_plus_reference,weight_Capsule 3,0.02510630320059491
+primary,6.0,M6_aitchison_regions_plus_reference,weight_Capsule 4,0.2509011077503043
+primary,6.0,M6_aitchison_regions_plus_reference,weight_population_stool_reference,0.550207220534985
+primary,6.0,M7_multiregion_clr_ridge,ridge_alpha,100.0
+primary,8.0,M2_learned_arithmetic_regions,weight_Capsule 1,0.23784442869996159
+primary,8.0,M2_learned_arithmetic_regions,weight_Capsule 2,0.19425201325360908
+primary,8.0,M2_learned_arithmetic_regions,weight_Capsule 3,0.02151628658109709
+primary,8.0,M2_learned_arithmetic_regions,weight_Capsule 4,0.5463872714653323
+primary,8.0,M3_arithmetic_regions_plus_reference,weight_Capsule 1,0.03496247000896272
+primary,8.0,M3_arithmetic_regions_plus_reference,weight_Capsule 2,0.0
+primary,8.0,M3_arithmetic_regions_plus_reference,weight_Capsule 3,1.2470230807714623e-17
+primary,8.0,M3_arithmetic_regions_plus_reference,weight_Capsule 4,0.07050726938476194
+primary,8.0,M3_arithmetic_regions_plus_reference,weight_population_stool_reference,0.8945302606062754
+primary,8.0,M5_learned_aitchison_regions,weight_Capsule 1,0.2305213807577591
+primary,8.0,M5_learned_aitchison_regions,weight_Capsule 2,0.2353311523885232
+primary,8.0,M5_learned_aitchison_regions,weight_Capsule 3,4.861042674953625e-19
+primary,8.0,M5_learned_aitchison_regions,weight_Capsule 4,0.5341474668537178
+primary,8.0,M6_aitchison_regions_plus_reference,weight_Capsule 1,1.8607537012606273e-14
+primary,8.0,M6_aitchison_regions_plus_reference,weight_Capsule 2,0.13441645450729803
+primary,8.0,M6_aitchison_regions_plus_reference,weight_Capsule 3,4.2199068500583845e-14
+primary,8.0,M6_aitchison_regions_plus_reference,weight_Capsule 4,0.35286142320399455
+primary,8.0,M6_aitchison_regions_plus_reference,weight_population_stool_reference,0.5127221222886466
+primary,8.0,M7_multiregion_clr_ridge,ridge_alpha,100.0
+primary,9.0,M2_learned_arithmetic_regions,weight_Capsule 1,0.33426821577214455
+primary,9.0,M2_learned_arithmetic_regions,weight_Capsule 2,0.1725310445427731
+primary,9.0,M2_learned_arithmetic_regions,weight_Capsule 3,0.0033128406708250215
+primary,9.0,M2_learned_arithmetic_regions,weight_Capsule 4,0.48988789901425733
+primary,9.0,M3_arithmetic_regions_plus_reference,weight_Capsule 1,0.08787055220101025
+primary,9.0,M3_arithmetic_regions_plus_reference,weight_Capsule 2,6.1155778791760484e-18
+primary,9.0,M3_arithmetic_regions_plus_reference,weight_Capsule 3,0.0
+primary,9.0,M3_arithmetic_regions_plus_reference,weight_Capsule 4,0.002861271454354273
+primary,9.0,M3_arithmetic_regions_plus_reference,weight_population_stool_reference,0.9092681763446354
+primary,9.0,M5_learned_aitchison_regions,weight_Capsule 1,0.30824275105786936
+primary,9.0,M5_learned_aitchison_regions,weight_Capsule 2,0.2564192879309
+primary,9.0,M5_learned_aitchison_regions,weight_Capsule 3,0.039111402147019476
+primary,9.0,M5_learned_aitchison_regions,weight_Capsule 4,0.3962265588642112
+primary,9.0,M6_aitchison_regions_plus_reference,weight_Capsule 1,0.07393670531793063
+primary,9.0,M6_aitchison_regions_plus_reference,weight_Capsule 2,0.14602637035948715
+primary,9.0,M6_aitchison_regions_plus_reference,weight_Capsule 3,5.658877500176782e-16
+primary,9.0,M6_aitchison_regions_plus_reference,weight_Capsule 4,0.2500378764411858
+primary,9.0,M6_aitchison_regions_plus_reference,weight_population_stool_reference,0.529999047881396
+primary,9.0,M7_multiregion_clr_ridge,ridge_alpha,100.0
+primary,10.0,M2_learned_arithmetic_regions,weight_Capsule 1,0.1260643787813353
+primary,10.0,M2_learned_arithmetic_regions,weight_Capsule 2,0.29582877661522716
+primary,10.0,M2_learned_arithmetic_regions,weight_Capsule 3,0.006570086760517748
+primary,10.0,M2_learned_arithmetic_regions,weight_Capsule 4,0.5715367578429198
+primary,10.0,M3_arithmetic_regions_plus_reference,weight_Capsule 1,2.1677100002903622e-18
+primary,10.0,M3_arithmetic_regions_plus_reference,weight_Capsule 2,2.6992981794743676e-18
+primary,10.0,M3_arithmetic_regions_plus_reference,weight_Capsule 3,5.586362326356863e-18
+primary,10.0,M3_arithmetic_regions_plus_reference,weight_Capsule 4,0.06402766141686722
+primary,10.0,M3_arithmetic_regions_plus_reference,weight_population_stool_reference,0.9359723385831328
+primary,10.0,M5_learned_aitchison_regions,weight_Capsule 1,0.14321707735971112
+primary,10.0,M5_learned_aitchison_regions,weight_Capsule 2,0.3490111564105533
+primary,10.0,M5_learned_aitchison_regions,weight_Capsule 3,0.03678629380245714
+primary,10.0,M5_learned_aitchison_regions,weight_Capsule 4,0.4709854724272785
+primary,10.0,M6_aitchison_regions_plus_reference,weight_Capsule 1,4.810616487289704e-15
+primary,10.0,M6_aitchison_regions_plus_reference,weight_Capsule 2,0.1556397985237315
+primary,10.0,M6_aitchison_regions_plus_reference,weight_Capsule 3,0.0
+primary,10.0,M6_aitchison_regions_plus_reference,weight_Capsule 4,0.3063963140098597
+primary,10.0,M6_aitchison_regions_plus_reference,weight_population_stool_reference,0.537963887466404
+primary,10.0,M7_multiregion_clr_ridge,ridge_alpha,100.0
+primary,11.0,M2_learned_arithmetic_regions,weight_Capsule 1,0.18771980533918553
+primary,11.0,M2_learned_arithmetic_regions,weight_Capsule 2,0.3749517040838647
+primary,11.0,M2_learned_arithmetic_regions,weight_Capsule 3,5.793705359219414e-19
+primary,11.0,M2_learned_arithmetic_regions,weight_Capsule 4,0.4373284905769497
+primary,11.0,M3_arithmetic_regions_plus_reference,weight_Capsule 1,0.03996685330372967
+primary,11.0,M3_arithmetic_regions_plus_reference,weight_Capsule 2,0.0
+primary,11.0,M3_arithmetic_regions_plus_reference,weight_Capsule 3,9.288986816064285e-18
+primary,11.0,M3_arithmetic_regions_plus_reference,weight_Capsule 4,0.04722377897288809
+primary,11.0,M3_arithmetic_regions_plus_reference,weight_population_stool_reference,0.9128093677233823
+primary,11.0,M5_learned_aitchison_regions,weight_Capsule 1,0.20894975590387785
+primary,11.0,M5_learned_aitchison_regions,weight_Capsule 2,0.34146935315834204
+primary,11.0,M5_learned_aitchison_regions,weight_Capsule 3,0.03531913677177273
+primary,11.0,M5_learned_aitchison_regions,weight_Capsule 4,0.41426175416600747
+primary,11.0,M6_aitchison_regions_plus_reference,weight_Capsule 1,0.00039177722632016893
+primary,11.0,M6_aitchison_regions_plus_reference,weight_Capsule 2,0.1782439575340288
+primary,11.0,M6_aitchison_regions_plus_reference,weight_Capsule 3,0.0
+primary,11.0,M6_aitchison_regions_plus_reference,weight_Capsule 4,0.24598662980496758
+primary,11.0,M6_aitchison_regions_plus_reference,weight_population_stool_reference,0.5753776354346835
+primary,11.0,M7_multiregion_clr_ridge,ridge_alpha,100.0
+primary,12.0,M2_learned_arithmetic_regions,weight_Capsule 1,0.1792791394082476
+primary,12.0,M2_learned_arithmetic_regions,weight_Capsule 2,0.2489323941319676
+primary,12.0,M2_learned_arithmetic_regions,weight_Capsule 3,8.648206391466406e-18
+primary,12.0,M2_learned_arithmetic_regions,weight_Capsule 4,0.5717884664597849
+primary,12.0,M3_arithmetic_regions_plus_reference,weight_Capsule 1,0.0024701037942016658
+primary,12.0,M3_arithmetic_regions_plus_reference,weight_Capsule 2,1.1340077097840573e-17
+primary,12.0,M3_arithmetic_regions_plus_reference,weight_Capsule 3,0.0
+primary,12.0,M3_arithmetic_regions_plus_reference,weight_Capsule 4,0.06324506026825139
+primary,12.0,M3_arithmetic_regions_plus_reference,weight_population_stool_reference,0.934284835937547
+primary,12.0,M5_learned_aitchison_regions,weight_Capsule 1,0.18867155941306527
+primary,12.0,M5_learned_aitchison_regions,weight_Capsule 2,0.2818945336713129
+primary,12.0,M5_learned_aitchison_regions,weight_Capsule 3,0.11008677447765011
+primary,12.0,M5_learned_aitchison_regions,weight_Capsule 4,0.4193471324379718
+primary,12.0,M6_aitchison_regions_plus_reference,weight_Capsule 1,0.0
+primary,12.0,M6_aitchison_regions_plus_reference,weight_Capsule 2,0.17124013217354953
+primary,12.0,M6_aitchison_regions_plus_reference,weight_Capsule 3,0.01558324173389129
+primary,12.0,M6_aitchison_regions_plus_reference,weight_Capsule 4,0.3025282076831134
+primary,12.0,M6_aitchison_regions_plus_reference,weight_population_stool_reference,0.5106484184094459
+primary,12.0,M7_multiregion_clr_ridge,ridge_alpha,100.0
+primary,14.0,M2_learned_arithmetic_regions,weight_Capsule 1,0.2706552398015288
+primary,14.0,M2_learned_arithmetic_regions,weight_Capsule 2,0.19427775961060223
+primary,14.0,M2_learned_arithmetic_regions,weight_Capsule 3,0.0
+primary,14.0,M2_learned_arithmetic_regions,weight_Capsule 4,0.5350670005878689
+primary,14.0,M3_arithmetic_regions_plus_reference,weight_Capsule 1,0.05773843483479872
+primary,14.0,M3_arithmetic_regions_plus_reference,weight_Capsule 2,5.48072668520895e-18
+primary,14.0,M3_arithmetic_regions_plus_reference,weight_Capsule 3,1.234741103036275e-17
+primary,14.0,M3_arithmetic_regions_plus_reference,weight_Capsule 4,0.027784096250536523
+primary,14.0,M3_arithmetic_regions_plus_reference,weight_population_stool_reference,0.9144774689146647
+primary,14.0,M5_learned_aitchison_regions,weight_Capsule 1,0.22762083439327768
+primary,14.0,M5_learned_aitchison_regions,weight_Capsule 2,0.24608722087145757
+primary,14.0,M5_learned_aitchison_regions,weight_Capsule 3,0.06516173442736672
+primary,14.0,M5_learned_aitchison_regions,weight_Capsule 4,0.461130210307898
+primary,14.0,M6_aitchison_regions_plus_reference,weight_Capsule 1,0.018646381988778986
+primary,14.0,M6_aitchison_regions_plus_reference,weight_Capsule 2,0.13565006741020474
+primary,14.0,M6_aitchison_regions_plus_reference,weight_Capsule 3,0.0
+primary,14.0,M6_aitchison_regions_plus_reference,weight_Capsule 4,0.3071477590036094
+primary,14.0,M6_aitchison_regions_plus_reference,weight_population_stool_reference,0.538555791597407
+primary,14.0,M7_multiregion_clr_ridge,ridge_alpha,100.0
+primary,15.0,M2_learned_arithmetic_regions,weight_Capsule 1,0.1060008346913524
+primary,15.0,M2_learned_arithmetic_regions,weight_Capsule 2,0.3299346500755871
+primary,15.0,M2_learned_arithmetic_regions,weight_Capsule 3,0.053560577923402596
+primary,15.0,M2_learned_arithmetic_regions,weight_Capsule 4,0.5105039373096579
+primary,15.0,M3_arithmetic_regions_plus_reference,weight_Capsule 1,0.015544167289977276
+primary,15.0,M3_arithmetic_regions_plus_reference,weight_Capsule 2,6.235009524738905e-18
+primary,15.0,M3_arithmetic_regions_plus_reference,weight_Capsule 3,0.0
+primary,15.0,M3_arithmetic_regions_plus_reference,weight_Capsule 4,0.08992664111965043
+primary,15.0,M3_arithmetic_regions_plus_reference,weight_population_stool_reference,0.8945291915903724
+primary,15.0,M5_learned_aitchison_regions,weight_Capsule 1,0.1634549829492237
+primary,15.0,M5_learned_aitchison_regions,weight_Capsule 2,0.2994772441429652
+primary,15.0,M5_learned_aitchison_regions,weight_Capsule 3,0.11237404440056717
+primary,15.0,M5_learned_aitchison_regions,weight_Capsule 4,0.4246937285072439
+primary,15.0,M6_aitchison_regions_plus_reference,weight_Capsule 1,0.0015013898109742657
+primary,15.0,M6_aitchison_regions_plus_reference,weight_Capsule 2,0.1462611695011974
+primary,15.0,M6_aitchison_regions_plus_reference,weight_Capsule 3,0.03126113417415836
+primary,15.0,M6_aitchison_regions_plus_reference,weight_Capsule 4,0.25276764131040014
+primary,15.0,M6_aitchison_regions_plus_reference,weight_population_stool_reference,0.5682086652032698
+primary,15.0,M7_multiregion_clr_ridge,ridge_alpha,100.0

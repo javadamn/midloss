@@ -1,0 +1,23 @@
+check,passed,detail
+QC sample count,True,297
+complete events,True,16
+complete subjects,True,11
+guilds,True,11
+prediction closure,True,closed
+prediction uniqueness,True,one prediction per event and model
+decision states supported,True,"{'distal_local_butyrate_deficit': 2, 'proximal_local_burden': 2, 'regional_hotspot_bacteroidales': 2}"
+MIDL nonnegative,True,0.0
+MIDL endpoints,True,0.0
+decision bootstrap replicates,True,1000
+four ablations,True,['Capsule 1' 'Capsule 2' 'Capsule 3' 'Capsule 4']
+ablation subject counts,True,"{('Capsule 1', 'M3_arithmetic_regions_plus_reference'): 11, ('Capsule 1', 'M6_aitchison_regions_plus_reference'): 11, ('Capsule 2', 'M3_arithmetic_regions_plus_reference'): 11, ('Capsule 2', 'M6_aitchison_regions_plus_reference'): 11, ('Capsule 3', 'M3_arithmetic_regions_plus_reference'): 11, ('Capsule 3', 'M6_aitchison_regions_plus_reference'): 11, ('Capsule 4', 'M3_arithmetic_regions_plus_reference'): 11, ('Capsule 4', 'M6_aitchison_regions_plus_reference'): 11}"
+K6 sensitivity subject counts,True,"{'B0_population_aitchison_center': 11, 'B0_population_arithmetic_center': 11, 'M1_equal_arithmetic_regions': 11, 'M3_arithmetic_regions_plus_reference': 11, 'M4_equal_aitchison_regions': 11, 'M6_aitchison_regions_plus_reference': 11}"
+zero-replacement sensitivity subject counts,True,"{(1e-08, 'B0_population_aitchison_center'): 11, (1e-08, 'B0_population_arithmetic_center'): 11, (1e-08, 'M1_equal_arithmetic_regions'): 11, (1e-08, 'M3_arithmetic_regions_plus_reference'): 11, (1e-08, 'M4_equal_aitchison_regions'): 11, (1e-08, 'M6_aitchison_regions_plus_reference'): 11, (1e-06, 'B0_population_aitchison_center'): 11, (1e-06, 'B0_population_arithmetic_center'): 11, (1e-06, 'M1_equal_arithmetic_regions'): 11, (1e-06, 'M3_arithmetic_regions_plus_reference'): 11, (1e-06, 'M4_equal_aitchison_regions'): 11, (1e-06, 'M6_aitchison_regions_plus_reference'): 11, (0.0001, 'B0_population_aitchison_center'): 11, (0.0001, 'B0_population_arithmetic_center'): 11, (0.0001, 'M1_equal_arithmetic_regions'): 11, (0.0001, 'M3_arithmetic_regions_plus_reference'): 11, (0.0001, 'M4_equal_aitchison_regions'): 11, (0.0001, 'M6_aitchison_regions_plus_reference'): 11}"
+crossed sensitivity combinations,True,"[{'resolution': 'K11', 'delta': 1e-08}, {'resolution': 'K11', 'delta': 1e-06}, {'resolution': 'K11', 'delta': 0.0001}, {'resolution': 'K6', 'delta': 1e-08}, {'resolution': 'K6', 'delta': 1e-06}, {'resolution': 'K6', 'delta': 0.0001}]"
+crossed sensitivity participant counts,True,"{('K11', 1e-08): 11, ('K11', 1e-06): 11, ('K11', 0.0001): 11, ('K6', 1e-08): 11, ('K6', 1e-06): 11, ('K6', 0.0001): 11}"
+K6 decision tasks supported,True,"{'distal_local_butyrate_deficit': 2, 'proximal_local_burden': 2, 'regional_hotspot_bacteroidales': 2}"
+K6 task-score exact amalgamation,True,2.220446049250313e-16
+K6 MIDL nonnegative,True,0.0
+target-region omission tasks supported,True,"{'distal_local_butyrate_deficit': 2, 'proximal_local_burden': 2}"
+target-region omission MIDL nonnegative,True,0.0
+ridge optimum inside grid,True,100.0

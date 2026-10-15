@@ -1,0 +1,22 @@
+{
+  "seed": 20260723,
+  "primary_resolution": "K11",
+  "state_threshold_quantile": 0.5,
+  "eta_grid_n": 201,
+  "channel_prior": 0.5,
+  "performance_bootstrap_replicates": 2000,
+  "decision_bootstrap_replicates": 1000,
+  "clr_zero_replacement": 1e-06,
+  "ridge_alphas": [
+    0.1,
+    1,
+    10,
+    100,
+    1000,
+    10000,
+    100000,
+    1000000,
+    10000000,
+    100000000
+  ]
+}

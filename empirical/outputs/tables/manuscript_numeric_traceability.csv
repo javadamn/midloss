@@ -1,0 +1,201 @@
+manuscript_result,value,source_file,selection_or_calculation
+Cohort: raw metadata records; n,392,cohort_flow.csv,stage=raw metadata records; column=n
+Cohort: raw metadata records; subjects,15,cohort_flow.csv,stage=raw metadata records; column=subjects
+Cohort: QC 16S samples; n,297,cohort_flow.csv,stage=QC 16S samples; column=n
+Cohort: QC 16S samples; subjects,15,cohort_flow.csv,stage=QC 16S samples; column=subjects
+Cohort: complete stool plus four-region events; n,16,cohort_flow.csv,stage=complete stool plus four-region events; column=n
+Cohort: complete stool plus four-region events; subjects,11,cohort_flow.csv,stage=complete stool plus four-region events; column=subjects
+Aligned ASVs,2437,asv_to_curated_guild.csv,unique ASV
+Minimum retained 16S reads,2500.0,qc_metadata.csv,minimum reads_16s
+Participants with repeated complete events,4,complete_event_guild_compositions.csv,number of participants with >1 complete event
+CLR ridge mean Aitchison: mean,7.0132351629265965,model_performance_summary.csv,analysis=primary; M7; mean_Aitchison; mean
+CLR ridge mean Aitchison: ci_low,5.592631541449627,model_performance_summary.csv,analysis=primary; M7; mean_Aitchison; ci_low
+CLR ridge mean Aitchison: ci_high,8.40638311495555,model_performance_summary.csv,analysis=primary; M7; mean_Aitchison; ci_high
+Aitchison+reference mean Aitchison: mean,7.073814861596666,model_performance_summary.csv,analysis=primary; M6; mean_Aitchison; mean
+Aitchison+reference mean Aitchison: ci_low,6.296969092231211,model_performance_summary.csv,analysis=primary; M6; mean_Aitchison; ci_low
+Aitchison+reference mean Aitchison: ci_high,7.920956238539241,model_performance_summary.csv,analysis=primary; M6; mean_Aitchison; ci_high
+Population Aitchison center mean Aitchison: mean,8.03919624326816,model_performance_summary.csv,analysis=primary; B0G; mean_Aitchison; mean
+Population Aitchison center mean Aitchison: ci_low,6.5818650410564015,model_performance_summary.csv,analysis=primary; B0G; mean_Aitchison; ci_low
+Population Aitchison center mean Aitchison: ci_high,9.41552040104522,model_performance_summary.csv,analysis=primary; B0G; mean_Aitchison; ci_high
+Population arithmetic center mean TV: mean,0.3161466147452091,model_performance_summary.csv,analysis=primary; B0A; mean_TV; mean
+Population arithmetic center mean TV: ci_low,0.2563201631412171,model_performance_summary.csv,analysis=primary; B0A; mean_TV; ci_low
+Population arithmetic center mean TV: ci_high,0.3852742760368195,model_performance_summary.csv,analysis=primary; B0A; mean_TV; ci_high
+Arithmetic+reference mean TV: mean,0.3188363345598918,model_performance_summary.csv,analysis=primary; M3; mean_TV; mean
+Arithmetic+reference mean TV: ci_low,0.2635216306989704,model_performance_summary.csv,analysis=primary; M3; mean_TV; ci_low
+Arithmetic+reference mean TV: ci_high,0.3882123523924246,model_performance_summary.csv,analysis=primary; M3; mean_TV; ci_high
+Aitchison+reference mean TV: mean,0.4155789474969449,model_performance_summary.csv,analysis=primary; M6; mean_TV; mean
+Aitchison+reference mean TV: ci_low,0.3216058642762273,model_performance_summary.csv,analysis=primary; M6; mean_TV; ci_low
+Aitchison+reference mean TV: ci_high,0.5156547496430528,model_performance_summary.csv,analysis=primary; M6; mean_TV; ci_high
+CLR ridge mean TV: mean,0.3430854461789275,model_performance_summary.csv,analysis=primary; M7; mean_TV; mean
+CLR ridge mean TV: ci_low,0.2550097896473078,model_performance_summary.csv,analysis=primary; M7; mean_TV; ci_low
+CLR ridge mean TV: ci_high,0.4399063866296326,model_performance_summary.csv,analysis=primary; M7; mean_TV; ci_high
+M6 vs Aitchison center Aitchison test: exact p,0.0947265625,predefined_exact_model_tests_by_metric.csv,M6 vs Aitchison center Aitchison test
+M6 vs Aitchison center Aitchison test: Holm p,0.2431640625,predefined_exact_model_tests_by_metric.csv,M6 vs Aitchison center Aitchison test
+Ridge vs Aitchison center Aitchison test: exact p,0.0810546875,predefined_exact_model_tests_by_metric.csv,Ridge vs Aitchison center Aitchison test
+Ridge vs Aitchison center Aitchison test: Holm p,0.2431640625,predefined_exact_model_tests_by_metric.csv,Ridge vs Aitchison center Aitchison test
+M3 vs arithmetic center TV test: exact p,0.642578125,predefined_exact_model_tests_by_metric.csv,M3 vs arithmetic center TV test
+M3 vs arithmetic center TV test: Holm p,0.751953125,predefined_exact_model_tests_by_metric.csv,M3 vs arithmetic center TV test
+M6 vs arithmetic center TV test: exact p,0.0087890625,predefined_exact_model_tests_by_metric.csv,M6 vs arithmetic center TV test
+M6 vs arithmetic center TV test: Holm p,0.0263671875,predefined_exact_model_tests_by_metric.csv,M6 vs arithmetic center TV test
+Ridge vs arithmetic center TV test: exact p,0.3759765625,predefined_exact_model_tests_by_metric.csv,Ridge vs arithmetic center TV test
+Ridge vs arithmetic center TV test: Holm p,0.751953125,predefined_exact_model_tests_by_metric.csv,Ridge vs arithmetic center TV test
+Median weight: M3_arithmetic_regions_plus_reference; weight_population_stool_reference,0.9128093677233824,primary_weight_summary.csv,model=M3_arithmetic_regions_plus_reference; parameter=weight_population_stool_reference; median
+Median weight: M3_arithmetic_regions_plus_reference; weight_Capsule 1,0.0399668533037296,primary_weight_summary.csv,model=M3_arithmetic_regions_plus_reference; parameter=weight_Capsule 1; median
+Median weight: M3_arithmetic_regions_plus_reference; weight_Capsule 2,2.6992981794743687e-18,primary_weight_summary.csv,model=M3_arithmetic_regions_plus_reference; parameter=weight_Capsule 2; median
+Median weight: M3_arithmetic_regions_plus_reference; weight_Capsule 3,6.426862487292005e-18,primary_weight_summary.csv,model=M3_arithmetic_regions_plus_reference; parameter=weight_Capsule 3; median
+Median weight: M3_arithmetic_regions_plus_reference; weight_Capsule 4,0.0443888189874438,primary_weight_summary.csv,model=M3_arithmetic_regions_plus_reference; parameter=weight_Capsule 4; median
+Median weight: M6_aitchison_regions_plus_reference; weight_population_stool_reference,0.537963887466404,primary_weight_summary.csv,model=M6_aitchison_regions_plus_reference; parameter=weight_population_stool_reference; median
+Median weight: M6_aitchison_regions_plus_reference; weight_Capsule 1,0.0015013898109742,primary_weight_summary.csv,model=M6_aitchison_regions_plus_reference; parameter=weight_Capsule 1; median
+Median weight: M6_aitchison_regions_plus_reference; weight_Capsule 2,0.1462611695011974,primary_weight_summary.csv,model=M6_aitchison_regions_plus_reference; parameter=weight_Capsule 2; median
+Median weight: M6_aitchison_regions_plus_reference; weight_Capsule 3,5.658877500176782e-16,primary_weight_summary.csv,model=M6_aitchison_regions_plus_reference; parameter=weight_Capsule 3; median
+Median weight: M6_aitchison_regions_plus_reference; weight_Capsule 4,0.3025282076831134,primary_weight_summary.csv,model=M6_aitchison_regions_plus_reference; parameter=weight_Capsule 4; median
+Aitchison ablation Capsule 1: mean_change_omitted_minus_full,-0.059695571008624,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 1; mean_change_omitted_minus_full
+Aitchison ablation Capsule 1: ci_low,-0.1468541670968476,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 1; ci_low
+Aitchison ablation Capsule 1: ci_high,-0.0082803539827701,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 1; ci_high
+Aitchison ablation Capsule 1: p_exact_two_sided,0.0537109375,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 1; p_exact_two_sided
+Aitchison ablation Capsule 1: p_holm,0.21484375,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 1; p_holm
+Aitchison ablation Capsule 2: mean_change_omitted_minus_full,0.1017835537292204,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 2; mean_change_omitted_minus_full
+Aitchison ablation Capsule 2: ci_low,-0.0041319300480875,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 2; ci_low
+Aitchison ablation Capsule 2: ci_high,0.1906568217765391,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 2; ci_high
+Aitchison ablation Capsule 2: p_exact_two_sided,0.0859375,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 2; p_exact_two_sided
+Aitchison ablation Capsule 2: p_holm,0.240234375,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 2; p_holm
+Aitchison ablation Capsule 3: mean_change_omitted_minus_full,-0.0198226898706279,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 3; mean_change_omitted_minus_full
+Aitchison ablation Capsule 3: ci_low,-0.0373614777463382,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 3; ci_low
+Aitchison ablation Capsule 3: ci_high,-0.0047368704357406,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 3; ci_high
+Aitchison ablation Capsule 3: p_exact_two_sided,0.080078125,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 3; p_exact_two_sided
+Aitchison ablation Capsule 3: p_holm,0.240234375,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 3; p_holm
+Aitchison ablation Capsule 4: mean_change_omitted_minus_full,0.1908311119274733,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 4; mean_change_omitted_minus_full
+Aitchison ablation Capsule 4: ci_low,-0.4907107294581089,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 4; ci_low
+Aitchison ablation Capsule 4: ci_high,0.7764821149168051,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 4; ci_high
+Aitchison ablation Capsule 4: p_exact_two_sided,0.5830078125,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 4; p_exact_two_sided
+Aitchison ablation Capsule 4: p_holm,0.5830078125,region_ablation_summary.csv,model=M6; metric=mean_Aitchison; omitted=Capsule 4; p_holm
+Decision loss proximal_local_burden; Observed_stool; integrated_midl_median,0.1038789368872549,decision_bootstrap_summary.csv,task=proximal_local_burden; model=Observed_stool; integrated_midl_median
+Decision loss proximal_local_burden; Observed_stool; integrated_midl_ci_low,0.0561109387779654,decision_bootstrap_summary.csv,task=proximal_local_burden; model=Observed_stool; integrated_midl_ci_low
+Decision loss proximal_local_burden; Observed_stool; integrated_midl_ci_high,0.1240844261695906,decision_bootstrap_summary.csv,task=proximal_local_burden; model=Observed_stool; integrated_midl_ci_high
+Decision loss proximal_local_burden; B0_population_arithmetic_center; integrated_midl_median,0.1199403848694142,decision_bootstrap_summary.csv,task=proximal_local_burden; model=B0_population_arithmetic_center; integrated_midl_median
+Decision loss proximal_local_burden; B0_population_arithmetic_center; integrated_midl_ci_low,0.0839386088809594,decision_bootstrap_summary.csv,task=proximal_local_burden; model=B0_population_arithmetic_center; integrated_midl_ci_low
+Decision loss proximal_local_burden; B0_population_arithmetic_center; integrated_midl_ci_high,0.125,decision_bootstrap_summary.csv,task=proximal_local_burden; model=B0_population_arithmetic_center; integrated_midl_ci_high
+Decision loss proximal_local_burden; B0_population_aitchison_center; integrated_midl_median,0.1199403848694142,decision_bootstrap_summary.csv,task=proximal_local_burden; model=B0_population_aitchison_center; integrated_midl_median
+Decision loss proximal_local_burden; B0_population_aitchison_center; integrated_midl_ci_low,0.0839386088809594,decision_bootstrap_summary.csv,task=proximal_local_burden; model=B0_population_aitchison_center; integrated_midl_ci_low
+Decision loss proximal_local_burden; B0_population_aitchison_center; integrated_midl_ci_high,0.125,decision_bootstrap_summary.csv,task=proximal_local_burden; model=B0_population_aitchison_center; integrated_midl_ci_high
+Decision loss proximal_local_burden; M3_arithmetic_regions_plus_reference; integrated_midl_median,0.1051380859374999,decision_bootstrap_summary.csv,task=proximal_local_burden; model=M3_arithmetic_regions_plus_reference; integrated_midl_median
+Decision loss proximal_local_burden; M3_arithmetic_regions_plus_reference; integrated_midl_ci_low,0.060005292906746,decision_bootstrap_summary.csv,task=proximal_local_burden; model=M3_arithmetic_regions_plus_reference; integrated_midl_ci_low
+Decision loss proximal_local_burden; M3_arithmetic_regions_plus_reference; integrated_midl_ci_high,0.1231888926197538,decision_bootstrap_summary.csv,task=proximal_local_burden; model=M3_arithmetic_regions_plus_reference; integrated_midl_ci_high
+Decision loss proximal_local_burden; M6_aitchison_regions_plus_reference; integrated_midl_median,0.11024296875,decision_bootstrap_summary.csv,task=proximal_local_burden; model=M6_aitchison_regions_plus_reference; integrated_midl_median
+Decision loss proximal_local_burden; M6_aitchison_regions_plus_reference; integrated_midl_ci_low,0.0663788342828941,decision_bootstrap_summary.csv,task=proximal_local_burden; model=M6_aitchison_regions_plus_reference; integrated_midl_ci_low
+Decision loss proximal_local_burden; M6_aitchison_regions_plus_reference; integrated_midl_ci_high,0.1243745435984765,decision_bootstrap_summary.csv,task=proximal_local_burden; model=M6_aitchison_regions_plus_reference; integrated_midl_ci_high
+Decision loss proximal_local_burden; M7_multiregion_clr_ridge; integrated_midl_median,0.1075719353864734,decision_bootstrap_summary.csv,task=proximal_local_burden; model=M7_multiregion_clr_ridge; integrated_midl_median
+Decision loss proximal_local_burden; M7_multiregion_clr_ridge; integrated_midl_ci_low,0.0611846389889408,decision_bootstrap_summary.csv,task=proximal_local_burden; model=M7_multiregion_clr_ridge; integrated_midl_ci_low
+Decision loss proximal_local_burden; M7_multiregion_clr_ridge; integrated_midl_ci_high,0.1244063264483995,decision_bootstrap_summary.csv,task=proximal_local_burden; model=M7_multiregion_clr_ridge; integrated_midl_ci_high
+Decision loss distal_local_butyrate_deficit; Observed_stool; integrated_midl_median,0.1125137121212121,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=Observed_stool; integrated_midl_median
+Decision loss distal_local_butyrate_deficit; Observed_stool; integrated_midl_ci_low,0.0729356288426143,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=Observed_stool; integrated_midl_ci_low
+Decision loss distal_local_butyrate_deficit; Observed_stool; integrated_midl_ci_high,0.1241817307692307,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=Observed_stool; integrated_midl_ci_high
+Decision loss distal_local_butyrate_deficit; B0_population_arithmetic_center; integrated_midl_median,0.1212820202020202,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=B0_population_arithmetic_center; integrated_midl_median
+Decision loss distal_local_butyrate_deficit; B0_population_arithmetic_center; integrated_midl_ci_low,0.0797707638888889,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=B0_population_arithmetic_center; integrated_midl_ci_low
+Decision loss distal_local_butyrate_deficit; B0_population_arithmetic_center; integrated_midl_ci_high,0.125,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=B0_population_arithmetic_center; integrated_midl_ci_high
+Decision loss distal_local_butyrate_deficit; B0_population_aitchison_center; integrated_midl_median,0.1212820202020202,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=B0_population_aitchison_center; integrated_midl_median
+Decision loss distal_local_butyrate_deficit; B0_population_aitchison_center; integrated_midl_ci_low,0.0797707638888889,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=B0_population_aitchison_center; integrated_midl_ci_low
+Decision loss distal_local_butyrate_deficit; B0_population_aitchison_center; integrated_midl_ci_high,0.125,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=B0_population_aitchison_center; integrated_midl_ci_high
+Decision loss distal_local_butyrate_deficit; M3_arithmetic_regions_plus_reference; integrated_midl_median,0.0629992919389978,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=M3_arithmetic_regions_plus_reference; integrated_midl_median
+Decision loss distal_local_butyrate_deficit; M3_arithmetic_regions_plus_reference; integrated_midl_ci_low,0.0343316550925925,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=M3_arithmetic_regions_plus_reference; integrated_midl_ci_low
+Decision loss distal_local_butyrate_deficit; M3_arithmetic_regions_plus_reference; integrated_midl_ci_high,0.0886462406015036,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=M3_arithmetic_regions_plus_reference; integrated_midl_ci_high
+Decision loss distal_local_butyrate_deficit; M6_aitchison_regions_plus_reference; integrated_midl_median,0.0353401515151515,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=M6_aitchison_regions_plus_reference; integrated_midl_median
+Decision loss distal_local_butyrate_deficit; M6_aitchison_regions_plus_reference; integrated_midl_ci_low,0.0327102256944444,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=M6_aitchison_regions_plus_reference; integrated_midl_ci_low
+Decision loss distal_local_butyrate_deficit; M6_aitchison_regions_plus_reference; integrated_midl_ci_high,0.0354999999999999,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=M6_aitchison_regions_plus_reference; integrated_midl_ci_high
+Decision loss distal_local_butyrate_deficit; M7_multiregion_clr_ridge; integrated_midl_median,0.0871833984375,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=M7_multiregion_clr_ridge; integrated_midl_median
+Decision loss distal_local_butyrate_deficit; M7_multiregion_clr_ridge; integrated_midl_ci_low,0.03512625,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=M7_multiregion_clr_ridge; integrated_midl_ci_low
+Decision loss distal_local_butyrate_deficit; M7_multiregion_clr_ridge; integrated_midl_ci_high,0.1188348484848484,decision_bootstrap_summary.csv,task=distal_local_butyrate_deficit; model=M7_multiregion_clr_ridge; integrated_midl_ci_high
+Decision loss regional_hotspot_bacteroidales; Observed_stool; integrated_midl_median,0.1109861111111111,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=Observed_stool; integrated_midl_median
+Decision loss regional_hotspot_bacteroidales; Observed_stool; integrated_midl_ci_low,0.0641891015625,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=Observed_stool; integrated_midl_ci_low
+Decision loss regional_hotspot_bacteroidales; Observed_stool; integrated_midl_ci_high,0.1240698908730158,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=Observed_stool; integrated_midl_ci_high
+Decision loss regional_hotspot_bacteroidales; B0_population_arithmetic_center; integrated_midl_median,0.1212820202020202,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=B0_population_arithmetic_center; integrated_midl_median
+Decision loss regional_hotspot_bacteroidales; B0_population_arithmetic_center; integrated_midl_ci_low,0.0797707638888889,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=B0_population_arithmetic_center; integrated_midl_ci_low
+Decision loss regional_hotspot_bacteroidales; B0_population_arithmetic_center; integrated_midl_ci_high,0.125,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=B0_population_arithmetic_center; integrated_midl_ci_high
+Decision loss regional_hotspot_bacteroidales; B0_population_aitchison_center; integrated_midl_median,0.1212820202020202,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=B0_population_aitchison_center; integrated_midl_median
+Decision loss regional_hotspot_bacteroidales; B0_population_aitchison_center; integrated_midl_ci_low,0.0797707638888889,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=B0_population_aitchison_center; integrated_midl_ci_low
+Decision loss regional_hotspot_bacteroidales; B0_population_aitchison_center; integrated_midl_ci_high,0.125,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=B0_population_aitchison_center; integrated_midl_ci_high
+Decision loss regional_hotspot_bacteroidales; M3_arithmetic_regions_plus_reference; integrated_midl_median,0.0878405820227396,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=M3_arithmetic_regions_plus_reference; integrated_midl_median
+Decision loss regional_hotspot_bacteroidales; M3_arithmetic_regions_plus_reference; integrated_midl_ci_low,0.0353401515151515,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=M3_arithmetic_regions_plus_reference; integrated_midl_ci_low
+Decision loss regional_hotspot_bacteroidales; M3_arithmetic_regions_plus_reference; integrated_midl_ci_high,0.1211778273809523,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=M3_arithmetic_regions_plus_reference; integrated_midl_ci_high
+Decision loss regional_hotspot_bacteroidales; M6_aitchison_regions_plus_reference; integrated_midl_median,0.1132388671874999,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=M6_aitchison_regions_plus_reference; integrated_midl_median
+Decision loss regional_hotspot_bacteroidales; M6_aitchison_regions_plus_reference; integrated_midl_ci_low,0.0749161070400611,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=M6_aitchison_regions_plus_reference; integrated_midl_ci_low
+Decision loss regional_hotspot_bacteroidales; M6_aitchison_regions_plus_reference; integrated_midl_ci_high,0.1246426923076922,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=M6_aitchison_regions_plus_reference; integrated_midl_ci_high
+Decision loss regional_hotspot_bacteroidales; M7_multiregion_clr_ridge; integrated_midl_median,0.1045259765625,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=M7_multiregion_clr_ridge; integrated_midl_median
+Decision loss regional_hotspot_bacteroidales; M7_multiregion_clr_ridge; integrated_midl_ci_low,0.0521050418864989,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=M7_multiregion_clr_ridge; integrated_midl_ci_low
+Decision loss regional_hotspot_bacteroidales; M7_multiregion_clr_ridge; integrated_midl_ci_high,0.1236685391865079,decision_bootstrap_summary.csv,task=regional_hotspot_bacteroidales; model=M7_multiregion_clr_ridge; integrated_midl_ci_high
+Mean MIDL-curve calibration error: B0_population_arithmetic_center,0.005260506519652833,decision_calibration_error.csv,model=B0_population_arithmetic_center; mean across three tasks
+Mean MIDL-curve calibration error: M7_multiregion_clr_ridge,0.014322887991180635,decision_calibration_error.csv,model=M7_multiregion_clr_ridge; mean across three tasks
+Mean MIDL-curve calibration error: M3_arithmetic_regions_plus_reference,0.029789376137394404,decision_calibration_error.csv,model=M3_arithmetic_regions_plus_reference; mean across three tasks
+Mean MIDL-curve calibration error: M6_aitchison_regions_plus_reference,0.03273898962283103,decision_calibration_error.csv,model=M6_aitchison_regions_plus_reference; mean across three tasks
+Distal M3 contrast: contrast_model_minus_observed_stool_median,-0.04642671875,decision_bootstrap_contrasts.csv,Distal M3 contrast; contrast_model_minus_observed_stool_median
+Distal M3 contrast: ci_low,-0.0820396484375001,decision_bootstrap_contrasts.csv,Distal M3 contrast; ci_low
+Distal M3 contrast: ci_high,-0.0107635850694444,decision_bootstrap_contrasts.csv,Distal M3 contrast; ci_high
+Distal M6 contrast: contrast_model_minus_observed_stool_median,-0.0771735606060605,decision_bootstrap_contrasts.csv,Distal M6 contrast; contrast_model_minus_observed_stool_median
+Distal M6 contrast: ci_low,-0.0886817307692308,decision_bootstrap_contrasts.csv,Distal M6 contrast; ci_low
+Distal M6 contrast: ci_high,-0.0385076206341912,decision_bootstrap_contrasts.csv,Distal M6 contrast; ci_high
+Distal ridge contrast: contrast_model_minus_observed_stool_median,-0.021982955109127,decision_bootstrap_contrasts.csv,Distal ridge contrast; contrast_model_minus_observed_stool_median
+Distal ridge contrast: ci_low,-0.0690247737334281,decision_bootstrap_contrasts.csv,Distal ridge contrast; ci_low
+Distal ridge contrast: ci_high,0.0172089301215277,decision_bootstrap_contrasts.csv,Distal ridge contrast; ci_high
+Target-region omission proximal_local_burden; Observed_stool; integrated_midl,0.1130962178642056,target_region_omission_value_summary.csv,task=proximal_local_burden; model=Observed_stool; field=integrated_midl
+Target-region omission proximal_local_burden; Observed_stool; phi1,0.5277777777777778,target_region_omission_value_summary.csv,task=proximal_local_burden; model=Observed_stool; field=phi1
+Target-region omission proximal_local_burden; M3_arithmetic_regions_plus_reference; integrated_midl,0.1052594887570497,target_region_omission_value_summary.csv,task=proximal_local_burden; model=M3_arithmetic_regions_plus_reference; field=integrated_midl
+Target-region omission proximal_local_burden; M3_arithmetic_regions_plus_reference; phi1,0.5277777777777778,target_region_omission_value_summary.csv,task=proximal_local_burden; model=M3_arithmetic_regions_plus_reference; field=phi1
+Target-region omission proximal_local_burden; M6_aitchison_regions_plus_reference; integrated_midl,0.1205878662198783,target_region_omission_value_summary.csv,task=proximal_local_burden; model=M6_aitchison_regions_plus_reference; field=integrated_midl
+Target-region omission proximal_local_burden; M6_aitchison_regions_plus_reference; phi1,0.5277777777777778,target_region_omission_value_summary.csv,task=proximal_local_burden; model=M6_aitchison_regions_plus_reference; field=phi1
+Target-region omission distal_local_butyrate_deficit; Observed_stool; integrated_midl,0.1241817307692307,target_region_omission_value_summary.csv,task=distal_local_butyrate_deficit; model=Observed_stool; field=integrated_midl
+Target-region omission distal_local_butyrate_deficit; Observed_stool; phi1,0.5,target_region_omission_value_summary.csv,task=distal_local_butyrate_deficit; model=Observed_stool; field=phi1
+Target-region omission distal_local_butyrate_deficit; M3_arithmetic_regions_plus_reference; integrated_midl,0.1242576923076923,target_region_omission_value_summary.csv,task=distal_local_butyrate_deficit; model=M3_arithmetic_regions_plus_reference; field=integrated_midl
+Target-region omission distal_local_butyrate_deficit; M3_arithmetic_regions_plus_reference; phi1,0.5,target_region_omission_value_summary.csv,task=distal_local_butyrate_deficit; model=M3_arithmetic_regions_plus_reference; field=phi1
+Target-region omission distal_local_butyrate_deficit; M6_aitchison_regions_plus_reference; integrated_midl,0.0650865384615384,target_region_omission_value_summary.csv,task=distal_local_butyrate_deficit; model=M6_aitchison_regions_plus_reference; field=integrated_midl
+Target-region omission distal_local_butyrate_deficit; M6_aitchison_regions_plus_reference; phi1,0.5,target_region_omission_value_summary.csv,task=distal_local_butyrate_deficit; model=M6_aitchison_regions_plus_reference; field=phi1
+Subject-mean M6 Aitchison,7.024543884911757,subject_mean_sensitivity_summary.csv,M6 mean_Aitchison
+Subject-mean B0G Aitchison,8.050996367949729,subject_mean_sensitivity_summary.csv,B0G mean_Aitchison
+K6 M6 Aitchison,3.913525220580896,K6_sensitivity_summary.csv,M6 mean_Aitchison
+K6 B0G Aitchison,3.836477822572249,K6_sensitivity_summary.csv,B0G mean_Aitchison
+Crossed sensitivity K11; 1e-08; population_center_mean_Aitchison,11.213943593043608,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=1e-08; field=population_center_mean_Aitchison
+Crossed sensitivity K11; 1e-08; regional_plus_reference_mean_Aitchison,9.775668103108782,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=1e-08; field=regional_plus_reference_mean_Aitchison
+Crossed sensitivity K11; 1e-08; mean_difference_center_minus_regional,1.4382754899348245,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=1e-08; field=mean_difference_center_minus_regional
+Crossed sensitivity K11; 1e-08; ci_low,-0.0592856394600097,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=1e-08; field=ci_low
+Crossed sensitivity K11; 1e-08; ci_high,2.90776458330926,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=1e-08; field=ci_high
+Crossed sensitivity K11; 1e-08; relative_error_reduction_percent,12.825777818492302,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=1e-08; field=relative_error_reduction_percent
+Crossed sensitivity K11; 1e-08; p_exact_two_sided,0.0888671875,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=1e-08; field=p_exact_two_sided
+Crossed sensitivity K11; 1e-06; population_center_mean_Aitchison,8.03919624326816,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=1e-06; field=population_center_mean_Aitchison
+Crossed sensitivity K11; 1e-06; regional_plus_reference_mean_Aitchison,7.073814861596666,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=1e-06; field=regional_plus_reference_mean_Aitchison
+Crossed sensitivity K11; 1e-06; mean_difference_center_minus_regional,0.965381381671492,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=1e-06; field=mean_difference_center_minus_regional
+Crossed sensitivity K11; 1e-06; ci_low,-0.063439959390068,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=1e-06; field=ci_low
+Crossed sensitivity K11; 1e-06; ci_high,1.8919259554909933,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=1e-06; field=ci_high
+Crossed sensitivity K11; 1e-06; relative_error_reduction_percent,12.008431595134684,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=1e-06; field=relative_error_reduction_percent
+Crossed sensitivity K11; 1e-06; p_exact_two_sided,0.0947265625,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=1e-06; field=p_exact_two_sided
+Crossed sensitivity K11; 0.0001; population_center_mean_Aitchison,5.485387264949025,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=0.0001; field=population_center_mean_Aitchison
+Crossed sensitivity K11; 0.0001; regional_plus_reference_mean_Aitchison,5.050129127954293,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=0.0001; field=regional_plus_reference_mean_Aitchison
+Crossed sensitivity K11; 0.0001; mean_difference_center_minus_regional,0.4352581369947328,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=0.0001; field=mean_difference_center_minus_regional
+Crossed sensitivity K11; 0.0001; ci_low,-0.0396609628061505,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=0.0001; field=ci_low
+Crossed sensitivity K11; 0.0001; ci_high,0.9063993036820784,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=0.0001; field=ci_high
+Crossed sensitivity K11; 0.0001; relative_error_reduction_percent,7.934866144747521,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=0.0001; field=relative_error_reduction_percent
+Crossed sensitivity K11; 0.0001; p_exact_two_sided,0.111328125,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K11; delta=0.0001; field=p_exact_two_sided
+Crossed sensitivity K6; 1e-08; population_center_mean_Aitchison,5.057010582632653,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=1e-08; field=population_center_mean_Aitchison
+Crossed sensitivity K6; 1e-08; regional_plus_reference_mean_Aitchison,5.455780841848616,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=1e-08; field=regional_plus_reference_mean_Aitchison
+Crossed sensitivity K6; 1e-08; mean_difference_center_minus_regional,-0.3987702592159614,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=1e-08; field=mean_difference_center_minus_regional
+Crossed sensitivity K6; 1e-08; ci_low,-1.1122737470219883,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=1e-08; field=ci_low
+Crossed sensitivity K6; 1e-08; ci_high,0.2384945655544081,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=1e-08; field=ci_high
+Crossed sensitivity K6; 1e-08; relative_error_reduction_percent,-7.885493864408022,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=1e-08; field=relative_error_reduction_percent
+Crossed sensitivity K6; 1e-08; p_exact_two_sided,0.2978515625,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=1e-08; field=p_exact_two_sided
+Crossed sensitivity K6; 1e-06; population_center_mean_Aitchison,3.836477822572249,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=1e-06; field=population_center_mean_Aitchison
+Crossed sensitivity K6; 1e-06; regional_plus_reference_mean_Aitchison,3.913525220580896,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=1e-06; field=regional_plus_reference_mean_Aitchison
+Crossed sensitivity K6; 1e-06; mean_difference_center_minus_regional,-0.0770473980086468,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=1e-06; field=mean_difference_center_minus_regional
+Crossed sensitivity K6; 1e-06; ci_low,-0.3223542503736494,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=1e-06; field=ci_low
+Crossed sensitivity K6; 1e-06; ci_high,0.1527680454550605,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=1e-06; field=ci_high
+Crossed sensitivity K6; 1e-06; relative_error_reduction_percent,-2.008284722912568,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=1e-06; field=relative_error_reduction_percent
+Crossed sensitivity K6; 1e-06; p_exact_two_sided,0.5595703125,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=1e-06; field=p_exact_two_sided
+Crossed sensitivity K6; 0.0001; population_center_mean_Aitchison,3.019338344036566,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=0.0001; field=population_center_mean_Aitchison
+Crossed sensitivity K6; 0.0001; regional_plus_reference_mean_Aitchison,2.960007430805053,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=0.0001; field=regional_plus_reference_mean_Aitchison
+Crossed sensitivity K6; 0.0001; mean_difference_center_minus_regional,0.0593309132315134,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=0.0001; field=mean_difference_center_minus_regional
+Crossed sensitivity K6; 0.0001; ci_low,-0.0469740959601162,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=0.0001; field=ci_low
+Crossed sensitivity K6; 0.0001; ci_high,0.1634291536670497,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=0.0001; field=ci_high
+Crossed sensitivity K6; 0.0001; relative_error_reduction_percent,1.9650302970747544,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=0.0001; field=relative_error_reduction_percent
+Crossed sensitivity K6; 0.0001; p_exact_two_sided,0.333984375,resolution_zero_sensitivity_paired_contrasts.csv,resolution=K6; delta=0.0001; field=p_exact_two_sided
+Selected ridge alpha unique values,100.0,nested_loso_parameters_long.csv,parameter=ridge_alpha; unique
+Mean MIDL-curve calibration error: B0_population_aitchison_center,0.005260506519652833,decision_calibration_error.csv,model=B0_population_aitchison_center; mean across three tasks
+Mean MIDL-curve calibration error: M3_arithmetic_regions_plus_reference,0.029789376137394404,decision_calibration_error.csv,model=M3_arithmetic_regions_plus_reference; mean across three tasks
+Mean MIDL-curve calibration error: M6_aitchison_regions_plus_reference,0.03273898962283103,decision_calibration_error.csv,model=M6_aitchison_regions_plus_reference; mean across three tasks
+Mean MIDL-curve calibration error: M7_multiregion_clr_ridge,0.014322887991180635,decision_calibration_error.csv,model=M7_multiregion_clr_ridge; mean across three tasks

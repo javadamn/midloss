@@ -1,0 +1,6 @@
+item,passed,detail
+results_generated_from_tables,True,"Abstract, Results, Discussion numerical statements, and numerical tables are generated from current CSV outputs."
+all_workflow_checks_passed,True,22/22 checks passed
+no_unresolved_template_tokens,True,No @@...@@ tokens remain
+ridge_alpha_not_upper_boundary,True,[100.0]
+ablation_summarized_at_participant_level,True,n=11 for every ablation contrast
